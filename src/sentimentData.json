@@ -1,0 +1,29 @@
+{
+    "pages": [
+        {
+            "url": "https://www.scam-detector.com/validator/omi-me-review/",
+            "sentiment": 30,
+            "reasoning": "The review on the Scam Detector website expresses a negative sentiment towards omi.me, with a low-to-medium trust score of 47.5/100. It warns users of potential high-risk activity such as phishing and spamming, advising caution when using the website. The terms 'Doubtful', 'Medium-Risk', and 'Alert' further contribute to the negative sentiment. Additionally, the proximity to suspicious websites is scored 24/100, which indicates a higher risk of association with potentially harmful websites. The review includes recommendations to protect against scams, suggesting a lack of trust in omi.me's safety. While it does mention a valid HTTPS connection and the long domain age as positive aspects, the overall content of the page indicates skepticism and caution towards omi.me and its legitimacy."
+        },
+        {
+            "url": "www.youtube.com/watch?v=-3cN37P8DME",
+            "sentiment": 50,
+            "reasoning": "The content provided does not offer a specific sentiment towards Omi.me or its product, as it seems to be more of an informative description of a YouTube video. Key sections like 'the bad,' 'the good,' 'but is it helpful?' and 'should you buy one?' suggest a balanced review that may contain both positive and negative aspects of the 'Bee AI pin' product. Without explicit positive or negative statements, the sentiment cannot be determined as either positive or negative, thus a neutral score of 50 is assigned."
+        },
+        {
+            "url": "www.limitless.ai/vs/omi",
+            "sentiment": 35,
+            "reasoning": "The analyzed content presents a comparison between Limitless and Omi, with a negative sentiment towards Omi and a positive one towards Limitless. Reference to a security concern ('... claimed they constantly saw the transcriptions created by users of their plugin') casts doubt on Omi's trustworthiness. Positive testimonials and features are highlighted for Limitless, promoting its product as magical, meaningful, and focused on augmenting human intelligence. The sentiment is thus skewed negatively against Omi but is not extremely negative since it's more of a comparative assessment rather than outright denigration."
+        },
+        {
+            "url": "www.odinhalvorson.com/omi-ai-is-not-your-friend/",
+            "sentiment": 15,
+            "reasoning": "The content is overwhelmingly negative towards Omi and its product. The author expresses deep concerns regarding privacy, security and the deceptive nature of Omi's claims about open-source. They describe experiencing 'haunts to the core' and encounter 'a horror show of privacy failures' with Omi. Furthermore, they call Omi an 'open-source AI nightmare', mention 'deeply insecure infrastructure', and label the company's actions as 'blatantly taking advantage of the open-source name'. These strong negative sentiments indicate a very low sentiment score towards Omi."
+        },
+        {
+            "url": "www.trendingaitools.com/ai-tools/omi-me/",
+            "sentiment": 90,
+            "reasoning": "The content presents Omi.me in a highly positive light, emphasizing its emotional intelligence, customization options, and mental health focus. It's described as a superior tool for emotional wellness with features such as mood-adaptive conversations, daily reflections, and privacy assurance. The strengths section notes its availability, emotionally intelligent AI, and mental health benefits, while the drawbacks mentioned are minor in comparison. User testimonials are positive, suggesting that customers find real emotional value in the app. Although the content acknowledges some limitations, such as not being a substitute for professional therapy and market comparison, the overall sentiment is overwhelmingly supportive and encouraging."
+        }
+    ]
+}
